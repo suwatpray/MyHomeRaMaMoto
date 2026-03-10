@@ -1,3 +1,1 @@
-# MyHomeRaMaMoto
-
-Welcome to the RaMaMoTo
+#Welcome to the RaMaMoTo
