@@ -1,9 +1,10 @@
 # *Welcome to the RaMaMoTo*
-==================================
+------------------------------------------
 ## _Introduction_
 ##### Please follow these conditions before code!
 
 ## _IMPORTANT_
+##### Please read following this...!
 
 ## _Notes_
 
