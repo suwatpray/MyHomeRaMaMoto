@@ -1,7 +1,7 @@
 # *Welcome to the RaMaMoTo*
-##### Please follow these conditions before code!
-
+==================================
 ## _Introduction_
+##### Please follow these conditions before code!
 
 ## _IMPORTANT_
 
